@@ -79,9 +79,8 @@ Contributing
 If you want to contribute to the project, feel free to fork the repository and submit pull requests. Suggestions and improvements are always welcome.
 
 ## Contributors:
-Atisha Shrivas
-Email: atisha.shrivas@gmail.com
+Greeshma Reddy
+Email: greeshmareddy781@gmail.com
 
-## Live Demo:
-https://atisha-sh.github.io/Role-Based-Access-Control-RBAC-UI/
+
 
